@@ -1070,7 +1070,7 @@ text-align:left;
 padding-top:60px;
 padding-bottom:20px;
 padding-left:35px;
-width:390px;
+width:440px;
 overflow:hidden;
 zoom:1;
 text-align:left;
@@ -1272,6 +1272,7 @@ padding-top: 25px;
 display:block;
 margin-left:auto;
 margin-right:auto;
+height: 380;
 width:80%;
 }
 
